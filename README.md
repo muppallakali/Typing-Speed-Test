@@ -9,7 +9,7 @@ A simple Typing Speed Test application built with React. This project tracks how
 - **Text Input Area**: Disabled when the timer is not active and becomes enabled when the user starts the test.
 - **Start Button**: Initiates the typing test.
 
-Clone the repository:
+Clone the repository:https://github.com/muppallakali/Typing-Speed-Test.git
 cd typing-speed-test
 npm install
 npm start
